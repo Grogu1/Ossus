@@ -1,2 +1,2 @@
 /* to na razie tylko test */
-a[href="Darth_Plagueis_the_Wise"] {color: green !important;}
+a[href$="Darth_Plagueis_the_Wise"] {color: green !important;}
